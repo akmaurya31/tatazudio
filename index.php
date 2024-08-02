@@ -419,15 +419,15 @@ Franchise India 2022, 18<sup>th</sup> International Franchise and Retail Show <a
                             <form class="form-horizontal" id="registration">
                                 <div class="frm-pnl">
                                     <div style="text-align:center">
-                                        <div><a href="https://www.franchiseindia.com/investor/create" class="btn btn-large btn-default btn-gry btn-prop"> Start A Business
+                                        <div><a href="https://docs.google.com/forms/d/e/1FAIpQLSeZklm-ndzlFW14HqGTLQZh_9Lxwi8JXeIChHh9pNqRZYKv6A/viewform?usp=sf_link"> Start A Business
                                                 Today <span>(Investor Registration) </span> </a></div>
                                         <br>
-                                        <div><a href="https://www.franchiseindia.com/franchisor/registration/step/1" class="btn btn-large btn-default btn-gry btn-prop">Appoint Channel
+                                        <div><a href="https://docs.google.com/forms/d/e/1FAIpQLSeZklm-ndzlFW14HqGTLQZh_9Lxwi8JXeIChHh9pNqRZYKv6A/viewform?usp=sf_link" class="btn btn-large btn-default btn-gry btn-prop">Appoint Channel
                                                 Partners <span> (Franchisor Registration) </span></a></div>
                                         <br>
-                                        <div><a href="https://www.franchiseindia.com/franchisor/international-registration" class="btn btn-large btn-default btn-gry btn-prop">Appoint Channel Partners <span> (International Franchisor Registration) </span></a></div>
+                                        <div><a href="https://docs.google.com/forms/d/e/1FAIpQLSeZklm-ndzlFW14HqGTLQZh_9Lxwi8JXeIChHh9pNqRZYKv6A/viewform?usp=sf_link" class="btn btn-large btn-default btn-gry btn-prop">Appoint Channel Partners <span> (International Franchisor Registration) </span></a></div>
                                         <br>
-                                        <div><a target="_blank" href="https://www.franchiseindia.com/property-loan" class="btn btn- large btn-default btn-gry btn-prop">Loan Against
+                                        <div><a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSeZklm-ndzlFW14HqGTLQZh_9Lxwi8JXeIChHh9pNqRZYKv6A/viewform?usp=sf_link">Loan Against
                                                 Property </a></div>
                                     </div>
                                 </div>
