@@ -416,15 +416,16 @@ Franchise India 2022, 18<sup>th</sup> International Franchise and Retail Show <a
                             <form class="form-horizontal" id="registration">
                                 <div class="frm-pnl">
                                     <div style="text-align:center">
-                                        <div><a href="#investor/create" class="btn btn-large btn-default btn-gry btn-prop"> Start A Business
+                                        <div>
+                                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSeZklm-ndzlFW14HqGTLQZh_9Lxwi8JXeIChHh9pNqRZYKv6A/viewform?usp=sf_link" class="btn btn-large btn-default btn-gry btn-prop"> Start A Business
                                                 Today <span>(Investor Registration) </span> </a></div>
                                         <br>
-                                        <div><a href="#franchisor/registration/step/1" class="btn btn-large btn-default btn-gry btn-prop">Appoint Channel
+                                        <div><a href="https://docs.google.com/forms/d/e/1FAIpQLSeZklm-ndzlFW14HqGTLQZh_9Lxwi8JXeIChHh9pNqRZYKv6A/viewform?usp=sf_link" class="btn btn-large btn-default btn-gry btn-prop">Appoint Channel
                                                 Partners <span> (Franchisor Registration) </span></a></div>
                                         <br>
-                                        <div><a href="#franchisor/international-registration" class="btn btn-large btn-default btn-gry btn-prop">Appoint Channel Partners <span> (International Franchisor Registration) </span></a></div>
+                                        <div><a href="https://docs.google.com/forms/d/e/1FAIpQLSeZklm-ndzlFW14HqGTLQZh_9Lxwi8JXeIChHh9pNqRZYKv6A/viewform?usp=sf_link" class="btn btn-large btn-default btn-gry btn-prop">Appoint Channel Partners <span> (International Franchisor Registration) </span></a></div>
                                         <br>
-                                        <div><a target="_blank" href="#property-loan" class="btn btn- large btn-default btn-gry btn-prop">Loan Against
+                                        <div><a target="https://docs.google.com/forms/d/e/1FAIpQLSeZklm-ndzlFW14HqGTLQZh_9Lxwi8JXeIChHh9pNqRZYKv6A/viewform?usp=sf_link" href="#property-loan" class="btn btn- large btn-default btn-gry btn-prop">Loan Against
                                                 Property </a></div>
                                     </div>
                                 </div>
@@ -4383,7 +4384,7 @@ Franchise India 2022, 18<sup>th</sup> International Franchise and Retail Show <a
                         </li>
                     </ul>
                     <div class="tab-content">
-                        <div role="tabpanel" class="tab-pane active" id="login">
+                        <div role="tabpanel" class="tab-pane" id="login">
                             <form method="post" action="#loginform">
                                 <input type="hidden" name="_token" value="P6QgQKzQNfguyeeIbR2E14D3tCpNyFdPxEzs4fGf">
                                 <div class="frm-pnl">
@@ -4414,7 +4415,7 @@ Franchise India 2022, 18<sup>th</sup> International Franchise and Retail Show <a
                                 <div class="popright">New User <a href="#brands/zudio.85046#" id="loginselect1">Click here</a></div>
                             </div>
                         </div>
-                        <div role="tabpanel" class="tab-pane" id="register">
+                        <div role="tabpanel" class="tab-pane active" id="register">
                             <form class="form-horizontal" id="registration">
                                 <div class="frm-pnl">
                                     <div style="text-align:center">
